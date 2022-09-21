@@ -1,2 +1,2 @@
 # MIA bootcamp
-notebooks das aulas
+notebooks das aulas com meus comentários 
